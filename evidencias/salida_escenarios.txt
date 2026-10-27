@@ -1,0 +1,17 @@
+E01 PASA - evaluar_descuento -> 10%
+E02 PASA - evaluar_descuento -> 0%
+E03 PASA - confirmar -> rechazo
+E04 PASA - evaluar_descuento -> 0%
+E05 PASA - evaluar_descuento -> 5%
+E06 PASA - confirmar -> rechazo
+E07 PASA - confirmar -> exito
+E08 PASA - agregar SKU003 x2 -> rechazo
+E09 PASA - evaluar_descuento -> 0%
+E10 PASA - evaluar_descuento -> 0%
+E11 PASA - confirmar y enviar sin guia -> rechazo envio
+E12 PASA - confirmar dos veces -> rechazo segunda
+E13 PASA - confirmar, enviar y cancelar -> rechazo cancelacion
+E14 PASA - confirmar, enviar y devolver -> exito
+E15 PASA - confirmar, enviar y entregar -> exito
+15/15 escenarios cumplen su objetivo
+TODOS PASAN
