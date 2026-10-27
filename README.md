@@ -12,13 +12,13 @@ controla el estado de los pedidos, emite Domain Events y expone operaciones por 
 | **Materia** | Componentes de lógica de negocios |
 | **Actividad** | Actividad Práctica 4: Implementación del núcleo de negocio TechStore |
 | **Profesor** | Miguel Ángel Gómez Marroquín |
-| **Equipo / Grupo** | Equipo 4 (ITS) / [GRUPO] |
+| **Equipo / Grupo** | Equipo 4 (ITS) / 004 |
 
 | Alumno(a) | Matrícula |
 |---|---:|
-| García Cerda Randal Guillermo | [MATRÍCULA] |
-| Sarmiento Hernández Cesar Martín | [MATRÍCULA] |
-| Torres Pasillas Angela Susana | [MATRÍCULA] |
+| García Cerda Randal Guillermo | 2112493 |
+| Sarmiento Hernández Cesar Martín | 2119427 |
+| Torres Pasillas Angela Susana | 2101844 |
 
 ## Estado de validación
 
